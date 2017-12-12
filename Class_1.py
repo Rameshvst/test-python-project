@@ -5,7 +5,6 @@ OOP-1
 @author: jagan
 @updated by Shalabh
 """
-
 class Person(object):
     #Explanation - Creating a Person class
     
